@@ -3,7 +3,7 @@
 <component type="desktop-application">
   <id>uk.co._69_studios.kublit</id>
   <name>Kublit</name>
-  <summary>69 studios Kublit</summary>
+  <summary>A brand new original puzzle game from 69 Studios</summary>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0-or-later</project_license>
   <launchable type="desktop-id">uk.co._69_studios.kublit.desktop</launchable>
