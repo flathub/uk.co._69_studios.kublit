@@ -24,21 +24,33 @@
   <url type="homepage">https://69-studios.co.uk/</url>
   <screenshots>
     <screenshot type="default">
-      <caption>Main Menu</caption>
-      <image width="526" height="296">
-        https://play-lh.googleusercontent.com/AVzQpCJVDf_avlDDM9HXVLD0iOHiwKiSexlLgpBM22gQtWMC4TqwsiyzjsBbV_-4z_k=w526-h296
+      <caption>Mine the Kublits</caption>
+      <image width="1920" height="1080">
+        https://img.itch.zone/aW1hZ2UvMTk3MjU2MS8xMTYwMDk0OS5wbmc=/original/Ir0YxS.png
       </image>
     </screenshot>
     <screenshot>
-      <caption>Layer 4 Gameplay</caption>
-      <image width="526" height="296">
-        https://play-lh.googleusercontent.com/q3E99sC5iWA6wmtquwx5Ftd4wb1aL9a9aw4p22UqFnoJlWLsZbwjv6o6ozSqLsLNICFH=w526-h296
+      <caption>Find the key</caption>
+      <image width="1920" height="1080">
+        https://img.itch.zone/aW1hZ2UvMTk3MjU2MS8xMTYwMDk0OC5wbmc=/original/XscPk5.png
       </image>
     </screenshot>
     <screenshot>
-      <caption>Normal Gameplay</caption>
-      <image width="526" height="296">
-        https://play-lh.googleusercontent.com/SpAF8f72-TR-lQCoyregJ9FuYAWxxvZi8SV_UjEEkWq2E5ND3gjAsVnd9wydIpDOZQo=w526-h296
+      <caption>Buy Upgrades</caption>
+      <image width="1920" height="1080">
+        https://img.itch.zone/aW1hZ2UvMTk3MjU2MS8xMTYwMDk0Ny5wbmc=/original/%2BPQTj5.png
+      </image>
+    </screenshot>
+    <screenshot>
+      <caption>Campaign Mode</caption>
+      <image width="1920" height="1080">
+        https://img.itch.zone/aW1hZ2UvMTk3MjU2MS8xMTYwMDk0NS5wbmc=/original/XUP9De.png
+      </image>
+    </screenshot>
+    <screenshot>
+      <caption>Get the Highest Score</caption>
+      <image width="1920" height="1080">
+        https://img.itch.zone/aW1hZ2UvMTk3MjU2MS8xMTYwMDk0Ni5wbmc=/original/q3gqdz.png
       </image>
     </screenshot>
   </screenshots>
