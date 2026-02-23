@@ -21,7 +21,10 @@
      now and find out!
     </p>
   </description>
-  <url type="homepage">https://69-studios.co.uk/</url>
+  <url type="homepage">https://69-studios.co.uk</url>
+  <url type="donation">https://paypal.me/LStrettonGB</url>
+  <update_contact>Countryballgamer64@gmail.com</update_contact>
+  <developer_name>Winme11</developer_name>
   <screenshots>
     <screenshot type="default">
       <caption>Mine the Kublits</caption>
@@ -54,10 +57,6 @@
       </image>
     </screenshot>
   </screenshots>
-  <update_contact>Countryballgamer64@gmail.com</update_contact>
-  <developer_name>Winme11</developer_name>
-  <url type="donation">https://paypal.me/LStrettonGB</url>
-  <translation/>
   <releases>
     <release version="1.0.0" date="2023-03-04"/>
   </releases>
