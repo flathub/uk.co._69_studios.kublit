@@ -1,9 +1,8 @@
 app-id: uk.co._69_studios.kublit
 runtime: org.freedesktop.Platform
-runtime-version: '22.08'
+runtime-version: '25.08'
 sdk: org.freedesktop.Sdk
 command: Kublit.sh
-only-arches: x86_64
 finish-args: 
   - --share=ipc
   - --socket=x11 # <-- Godot needs X11
